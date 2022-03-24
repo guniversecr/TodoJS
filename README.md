@@ -13,5 +13,5 @@ npm install
 To build use the command:
 
 ```
-nmp build
+nmp run build
 ```
