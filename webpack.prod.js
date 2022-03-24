@@ -11,7 +11,7 @@ module.exports = {
     output: {
 
         clean: true,
-        filename: 'main.[contenthash].js'
+        filename: '[name].[contenthash].js'
 
     },
 
@@ -80,7 +80,7 @@ module.exports = {
 
         new MiniCssExtract({
             
-            filename: "[name].[contenthash].css",
+            filename: '[name].[contenthash].css',
             ignoreOrder: false
 
         }),
