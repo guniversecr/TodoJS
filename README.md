@@ -1,6 +1,6 @@
-# Webpack Starter
+# TODO App JavaScript
 
-Clear Webpack
+Simple TODO App buil on JavaScript savin on Local Storage
 
 ### PD:
 
